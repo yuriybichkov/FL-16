@@ -1,0 +1,275 @@
+// Write your styles here
+$fontFamilyHeading: 'Source Sans Pro', sans-serif;
+$bannerTextColor: #d1d1d1;
+
+@mixin button {
+  padding: 11px 37px;
+  border: 0;
+  border-radius: 3px;
+  margin: 35px 0;
+  background-color: $buttonBgColor;
+  color: #fff;
+  font-family: 'Fresca', sans-serif;
+  font-size: 16px;
+}
+
+@mixin link {
+  font-family: 'Fresca', sans-serif;
+  color: #ffffff;
+}
+
+body {
+  margin: 0;
+  background-color: $backgroundColor;
+}
+
+header {
+  background-image: $backgroundImage;
+  background-position-y: center;
+  height: 594px;
+  border-bottom-right-radius: 650px 250px;
+
+  .header-wrap {
+    margin-left: 160px;
+    width: 500px;
+
+    .landing-logo {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      color: $headerLogoColor;
+
+      img {
+        width: 40px;
+      }
+
+      p {
+        text-align: center;
+        font-family: $fontFamilyHeading;
+        font-size: 22px;
+        padding-left: 5px;
+
+        span {
+          display: block;
+          font-size: 8px;
+          text-align: center;
+          font-weight: normal;
+        }
+      }
+    }
+
+    .header_heading {
+      font-family: $fontFamilyHeading;
+      font-size: 60px;
+      font-weight: bold;
+      color: $contentColor;
+      line-height: 1;
+      margin: 40px 0 50px;
+      position: relative;
+      z-index: 1;
+
+      &:after {
+        content: "";
+        width: 250px;
+        height: 40px;
+        background-color: $colorAfter;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        z-index: -1;
+      }
+    }
+
+    .header_text {
+      font-family: $fontFamily;
+      font-size: 14px;
+      color: $contentColor;
+      line-height: 1.4;
+    }
+
+    .header_button {
+      @include button;
+    }
+
+    .login {
+      @include link;
+      font-size: 18px;
+      margin-left: 120px;
+    }
+  }
+}
+
+.section {
+
+  .section_text {
+    font-family: $fontFamilyHeading;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+    color: $contentColor;
+    margin: 35px;
+    position: relative;
+    z-index: 1;
+
+    &:after {
+      content: "";
+      width: 160px;
+      height: 40px;
+      background-color: $colorAfter;
+      position: absolute;
+      left: 760px;
+      bottom: 5px;
+      z-index: -1;
+    }
+  }
+
+
+  .section_card {
+    width: 890px;
+    display: flex;
+    background-color: $sectionBgColor;
+    margin: 20px auto;
+    height: 241px;
+    border-radius: 5px;
+    padding: 15px;
+
+    .section_card_img {
+      flex-basis: 40%;
+      border: 0;
+      border-radius: 5px;
+    }
+
+    .section_card_right_container {
+      flex-basis: 44%;
+      text-align: center;
+      margin: 13px auto;
+
+      .section_card_heading {
+        font-size: 21px;
+        font-family: $fontFamilyHeading;
+        color: #ffffff;
+        margin: 27px auto;
+      }
+
+      .section_card_text {
+        font-family: $fontFamily;
+        font-size: 14px;
+        text-align: justify;
+        color: #ffffff;
+        line-height: 1.5;
+      }
+
+      .section_link {
+        @include link;
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+.section_banner {
+  display: flex;
+  padding: 5px 100px;
+  background: $gradient;
+  width: 795px;
+  margin: 115px auto -60px;
+  border-radius: 5px;
+  align-items: center;
+  z-index: 2;
+  position: relative;
+
+  .section_banner_text_wrap {
+    flex-basis: 70%;
+    margin-left: 35px;
+
+    .section_banner_heading {
+      font-size: 25px;
+      font-weight: bold;
+      font-family: $fontFamilyHeading;
+      color: $contentColor;
+      margin: 0;
+      position: relative;
+      z-index: 1;
+
+      &:after {
+        content: "";
+        width: 60px;
+        height: 40px;
+        background-color: $colorAfter;
+        position: absolute;
+        left: 100px;
+        bottom: 10px;
+        z-index: -1;
+      }
+    }
+
+    .section_banner_text {
+      font-family: $fontFamily;
+      font-size: 13px;
+      font-weight: bold;
+      margin-top: 8px;
+      color: $bannerTextColor;
+    }
+  }
+
+  .section_banner_button {
+    @include button;
+    margin-left: 50px;
+  }
+}
+
+.footer {
+  background-color: $sectionBgColor;
+  padding-top: 100px;
+  z-index: 1;
+
+  .footer-wrap {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+
+    .footer_logo {
+      flex-basis: 30%;
+      display: flex;
+      align-items: center;
+      color: $footerLogoColor;
+
+      img {
+        width: 35px;
+      }
+
+      p {
+        text-align: center;
+        font-family: $fontFamily;
+        font-size: 22px;
+        padding-left: 10px;
+        //color: #c0c3ce;
+
+        span {
+          display: block;
+          font-size: 8px;
+          text-align: center;
+          font-weight: normal;
+        }
+      }
+    }
+
+    .footer_text {
+      flex-basis: 19%;
+      font-family: $fontFamily;
+      font-size: 11px;
+      color: #c0c3ce;
+      margin-left: -70px;
+    }
+
+    .footer-cr {
+      flex-basis: 30%;
+      text-align: right;
+      font-family: $fontFamily;
+      font-size: 14px;
+      color: $footerLogoColor;
+    }
+  }
+}

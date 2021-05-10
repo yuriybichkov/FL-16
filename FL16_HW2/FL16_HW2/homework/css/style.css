@@ -1,0 +1,152 @@
+/* 
+
+write your code here
+
+*/
+
+.flex-2-col {
+  display: flex;
+}
+
+.box-bg:hover {
+  background-color: #87CEFA;
+}
+
+h2.tm-box-bg-title:hover {
+  color: #FFFFFF;
+}
+
+.tm-banner-inner > p::first-letter,
+.flex-item > .tm-section-description::first-letter {
+  color: #87CEFA;
+  font-size: 30px;
+}
+
+section,
+.tm-sidebar,
+.tm-content-header {
+  box-shadow: 0 0 10px #808080;
+}
+
+.tm-content-header {
+  border: 25px solid #F5F5F5;
+}
+
+.tm-banner {
+  padding: 0;
+}
+
+section:not(:last-of-type)::before {
+  content: "";
+  border: 2.5vw solid transparent;
+  border-top: 0 solid transparent;
+  border-right: 0 solid transparent;
+  border-left: 15vw solid #87CEFA;
+}
+
+.active h2 {
+  color: #DCDCDC;
+  letter-spacing: 5px;
+}
+
+.tm-section-description {
+  line-height: 36px;
+  text-indent: 28px;
+}
+
+h2 + p {
+  font-style: italic;
+}
+
+.tm-team-description-container {
+  align-self: center;
+}
+
+.heading a {
+  color: #000000;
+  text-decoration: underline;
+}
+
+.heading a:link {
+  text-decoration-color: #FFFFFF;
+}
+
+.heading a:hover {
+  color: #87CEFA;
+  text-decoration: underline double #87CEFA;
+}
+
+.text::after {
+  display: inline-block;
+  content: "New";
+  color: #FF0000;
+  font-size: xx-small;
+  vertical-align: top;
+}
+
+.box:nth-child(even) {
+  background-color: #F5F5F5;
+}
+
+.box p::first-letter {
+  color: #000000;
+  font-size: 1.5em;
+}
+
+.submit-btn {
+  padding: 15px 50px;
+  border-color: #87CEFA;
+  border-radius: 0;
+  color: #87CEFA;
+  background-color: #FFFFFF;
+}
+
+.submit-btn:hover {
+  padding: 15px 50px;
+  border-color: #87CEFA;
+  border-radius: 0;
+  color: #D1F3FF;
+  background-color: #87CEFA;
+}
+
+.mandatory-field::after {
+  content: "*";
+  color: #FF0000;
+  font-weight: bold;
+}
+
+.tm-nav-item-link:hover {
+  background-color: #F5F5F5;
+}
+
+.contact-form {
+  text-align: right;
+}
+
+@media print {
+  .tm-sidebar,
+  .tm-main-content #about,
+  .tm-main-content .heading,
+  .tm-main-content .blocks,
+  .tm-main-content #ideas,
+  section.tm-content-box {
+    display: none;
+  }
+
+  .container {
+    width: 75%;
+  }
+
+  .flex-item:last-child {
+    width: 250px;
+    align-self: center;
+  }
+
+  .tm-banner {
+    border: none;
+  }
+
+  h2.tm-section-title {
+    color: #0000FF;
+  }
+}

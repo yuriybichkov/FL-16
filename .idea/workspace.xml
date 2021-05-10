@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="099b4944-6b2f-432a-a031-93d2e51f190a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/FL16_HW1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/FL16_HW1/task/FL16_HW1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/FL16_HW1/task/FL16_HW1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/FL16_HW1/task/content.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/FL16_HW1/task/template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/._FL16_HW1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/._homework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/._task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/homework/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/homework/._logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/homework/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/task/._FL16_HW1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/task/._FL16_HW1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/task/._content.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW1/__MACOSX/FL16_HW1/task/._template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/.idea/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/css/general.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/contact-us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/epam-mexico.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/epam_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/idea-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/idea-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/idea-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/idea-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/idea-large-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/idea-large-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/idea-large-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/idea-large-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/study.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/img/white-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/homework/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/task/FL_HW2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/FL16_HW2/task/FL_HW2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/._homework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/._task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/._img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/css/._bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/css/._general.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/css/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._contact-us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._epam-mexico.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._epam_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._idea-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._idea-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._idea-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._idea-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._idea-large-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._idea-large-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._idea-large-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._idea-large-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._study.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/homework/img/._white-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/task/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/task/._FL_HW2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW2/__MACOSX/FL16_HW2/task/._FL_HW2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/.idea/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/css/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/css/style1.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/img/m-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/img/m-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/img/m-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/img/m-h-day.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/img/m-h-night.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/img/m-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/koala-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/scss/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/scss/_variables1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/scss/_variables2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/scss/style1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/homework/scss/style2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/task/FL16_HW3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/task/FL16_HW3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/task/design/design_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/FL16_HW3/task/design/design_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/._FL16_HW3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/._homework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/._task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/._img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/._koala-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/._scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/css/._style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/css/._style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/img/._m-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/img/._m-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/img/._m-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/img/._m-h-day.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/img/._m-h-night.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/img/._m-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/scss/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/scss/.__main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/scss/.__variables1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/scss/.__variables2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/scss/._style1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/homework/scss/._style2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/task/._FL16_HW3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/task/._FL16_HW3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/task/._design" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/task/design/._design_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW3/__MACOSX/FL16_HW3/task/design/._design_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/homework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/homework/.idea/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/homework/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/homework/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/homework/img/apples.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/homework/img/sample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/homework/img/sample1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/homework/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/task/FL16_HW4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/task/FL16_HW4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/FL16_HW4/task/template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/._homework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/._task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/homework/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/homework/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/homework/._img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/homework/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/homework/css/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/homework/img/._apples.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/homework/img/._sample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/homework/img/._sample1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/task/._FL16_HW4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/task/._FL16_HW4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW4/__MACOSX/FL16_HW4/task/._template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/examples/desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/examples/mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/examples/tablet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/contact_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/icons/cardiolofy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/icons/dentistry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/icons/laboratory.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/icons/oftalmology.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/icons/pediatrics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/icons/radiology.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/lady.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/pricing_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/services_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/img/tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/homework/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/task/FL16_HW5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/FL16_HW5/task/FL16_HW5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/._FL16_HW5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/examples/._desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/examples/._mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/examples/._tablet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/._img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/css/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/._contact_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/._icons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/._lady.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/._logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/._pricing_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/._services_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/._tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/icons/._cardiolofy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/icons/._dentistry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/icons/._laboratory.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/icons/._oftalmology.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/icons/._pediatrics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/homework/img/icons/._radiology.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/task/._FL16_HW5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FL16_HW5/__MACOSX/FL16_HW5/task/._FL16_HW5.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sMKFekHC1AwfF1chGNbcqHout0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="099b4944-6b2f-432a-a031-93d2e51f190a" name="Default Changelist" comment="" />
+      <created>1620676916533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620676916533</updated>
+      <workItem from="1620676918575" duration="754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
