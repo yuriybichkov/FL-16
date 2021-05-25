@@ -1,0 +1,28 @@
+/* Your code goes here */
+.hide{
+  display: none;
+}
+
+.container{
+  width: 43%;
+  margin: 0 auto;
+}
+.form{
+  width: 100%;
+  border: 1px solid black;
+  padding: 10px;
+}
+.form-control{
+  width: 95%;
+  background-color: #3cbc8d;
+  padding: 8px 13px;
+  margin: 7px 0;
+  border: none;
+}
+.btn{
+  background-color: #4caf50;
+  margin: 10px 0;
+  padding: 10px 25px;
+  border: none;
+  color: #fff;
+}
