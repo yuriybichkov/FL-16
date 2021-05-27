@@ -1,12 +1,18 @@
-// function isFunction(functionToCheck) {
-//     return functionToCheck && {}.toString.call(functionToCheck) === '[object Function]';
-// }
+function isFunction(functionToCheck) {
+    return functionToCheck && {}.toString.call(functionToCheck) === '[object Function]';
+}
 
 const pipe = (value, ...funcs) => {
-    // PIPE implementation
+
     let res;
     let position;
     try {
+        for (let funcsKey in funcs) {
+            if (!isFunction(funcs[funcsKey])) {
+                position = funcsKey;
+                throw new Error('ERROR');
+            }
+        }
         res = funcs.reduce((arg, fn, index) => {
             position = index;
             return fn(arg)
@@ -25,10 +31,10 @@ const capitalize = (value) =>
         .join(' ');
 const appendGreeting = (value) => `Hello, ${value}!`;
 
-const error = pipe('john_doe', replaceUnderscoreWithSpace, capitalize, '');
+const error = pipe('john_doe', replaceUnderscoreWithSpace, 'capitalize', '');
 
-alert(error); // Provided argument at position 2 is not a function!
+alert(error);
 
 const result = pipe('john_doe', replaceUnderscoreWithSpace, capitalize, appendGreeting);
 
-alert(result); // Hello, John Doe!
+alert(result);
