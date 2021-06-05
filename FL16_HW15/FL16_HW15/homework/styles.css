@@ -1,0 +1,33 @@
+#root {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#list,
+.liked-list{
+  list-style: none;
+  width: 30%;
+  margin: 0 auto;
+}
+#navigationButtons{
+  width: 30%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+#alertMessage{
+  position: absolute;
+  z-index: 10;
+  background-color: darkorange;
+  padding: 30px;
+  color: white;
+}

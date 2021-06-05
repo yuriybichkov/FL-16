@@ -1,0 +1,106 @@
+/* START: Task 1 Styles */
+table {
+  margin: 0 auto;
+}
+
+td {
+  padding: 35px;
+  border: 2px solid green;
+  width: 50px;
+  height: 50px;
+}
+
+/* END: Task 1 Styles */
+
+/* START: Task 2 Styles */
+#task2 {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.hide {
+  display: none;
+}
+
+.wrong {
+  background-color: #f96868;
+}
+
+.success {
+  background-color: green;
+}
+
+.success,
+.wrong {
+  color: white;
+  padding: 15px;
+  margin: 10px;
+}
+
+p {
+  margin: 0;
+}
+
+form,
+input,
+.sendBtn {
+  padding: 10px;
+}
+
+.input {
+  width: 75%;
+}
+
+.input-wrong {
+  border-color: red;
+}
+
+.input-wrong:focus-visible {
+  outline: red auto 1px;
+}
+
+
+.sendBtn {
+  margin-left: 11px;
+}
+
+/* END: Task 2 Styles */
+
+/* START: Task 3 Styles */
+.court{
+  margin: 0 auto;
+  width: 600px;
+  height: 330px;
+  background-image: url("assets/court.png");
+  background-size: cover;
+  position: relative;
+}
+.court-goal-a,
+.court-goal-b{
+  width: 15px;
+  height: 15px;
+  top: 157px;
+  position: absolute;
+}
+.court-goal-a{
+  left: 33px;
+}
+.court-goal-b{
+  left: 564px;
+}
+.ball{
+  background-image: url("assets/ball.png");
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  background-size: cover;
+  top: 145px;
+  left: 287px;
+}
+.score{
+  margin: 0 auto;
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+}
+/* END: Task 3 Styles */
